@@ -1,7 +1,7 @@
 {
   "name": "react-native-web-server",
   "version": "0.1.14",
-  "repository": "https://github.com/futurepress/react-native-web-server",
+  "repository": "https://github.com/Vizlij/react-native-web-server",
   "title": "React Native Static Server",
   "description": "HTTP static file server for React Native",
   "main": "index.js",
