@@ -1,5 +1,5 @@
 {
-  "name": "@Vizlij/react-native-web-server",
+  "name": "web-server-react-native",
   "version": "0.1.14",
   "repository": "https://github.com/Vizlij/react-native-web-server",
   "title": "React Native Static Server",
@@ -11,7 +11,7 @@
   "keywords": [
     "react-native"
   ],
-  "author": "fchasen@gmail.com",
+  "author": "nvv.ztua@gmail.com",
   "license": "MIT",
   "peerDependencies": {
     "react": "16.8.6",
@@ -27,6 +27,6 @@
     "android",
     "ios",
     "index.js",
-    "react-native-web-server.podspec"
+    "web-server-react-native.podspec"
   ]
 }
