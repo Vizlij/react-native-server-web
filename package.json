@@ -27,6 +27,6 @@
     "android",
     "ios",
     "index.js",
-    "web-server-react-native.podspec"
+    "react-native-server-web.podspec"
   ]
 }
