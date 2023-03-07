@@ -1,5 +1,5 @@
 {
-  "name": "react-native-web-server",
+  "name": "@Vizlij/react-native-web-server",
   "version": "0.1.14",
   "repository": "https://github.com/Vizlij/react-native-web-server",
   "title": "React Native Static Server",
