@@ -1,5 +1,5 @@
 
-# web-server-react-native
+# react-native-server-web
 
 A cross platform component for serving static assets with React Native.
 
