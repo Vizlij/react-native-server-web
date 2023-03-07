@@ -1,0 +1,32 @@
+{
+  "name": "react-native-web-server",
+  "version": "0.1.14",
+  "repository": "https://github.com/futurepress/react-native-web-server",
+  "title": "React Native Static Server",
+  "description": "HTTP static file server for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "fchasen@gmail.com",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "16.8.6",
+    "react-native": "^0.59.10",
+    "react-native-windows": "0.57.2"
+  },
+  "devDependencies": {
+    "react": "16.8.6",
+    "react-native": "^0.59.10",
+    "react-native-windows": "0.57.2"
+  },
+  "files": [
+    "android",
+    "ios",
+    "index.js",
+    "react-native-web-server.podspec"
+  ]
+}
